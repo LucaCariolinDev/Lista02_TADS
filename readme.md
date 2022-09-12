@@ -1,4 +1,7 @@
-#Passo a Passo de como utilizar
+Luca Cariolin - (119120572) - Ciência da Computação - UNIBH
+Raphael Vieira Alves - (119126889) - Ciência da Computação - UNIBH
+
+Passo a Passo de como utilizar
 
 O sistema irá exibir 6 opções para você.
 
